@@ -110,3 +110,19 @@ p {
   width: 100%;
 }
 
+
+
+
+@media (max-width: 500px) {
+    h1, h2 {
+        text-align: center;
+    }
+    a.primary-link {
+        text-align: center;
+        display: block;
+    
+}
+    
+   
+}
+
